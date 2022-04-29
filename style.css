@@ -3,7 +3,6 @@
 .attribution a { color: hsl(228, 45%, 44%); }
 /* VARIABLES */
 :root{
-
     /* Colors */
     --primariy-Soft-Blue: hsl(215, 51%, 70%);
     --primariy-Cyan: hsl(178, 100%, 50%);
@@ -11,7 +10,7 @@
     --Neutral-main-BG: hsl(217, 54%, 11%);
     --Neutral-card-BG: hsl(216, 50%, 16%);
     --Neutral-line: hsl(215, 32%, 27%);
-    --White: hsl(0, 0%, 100%)
+    --White: hsl(0, 0%, 100%);
 
     /* Font size */
     --body-font-size: 18px;
@@ -26,8 +25,6 @@
     --mb-1: 1rem;
     --mb-1-5: 1.5rem;
     --mb-2: 2rem;
-
-
 }
 
 *,::before,::after{
