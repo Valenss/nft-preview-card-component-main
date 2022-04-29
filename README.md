@@ -32,7 +32,7 @@ My solution 🤠:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://valenss.github.io/nft-preview-card-component-main/)
+- Live Site URL: [nft-preview-card-component-main](https://valenss.github.io/nft-preview-card-component-main/)
 
 ## My process
 
